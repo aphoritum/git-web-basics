@@ -6,3 +6,6 @@
 Добавлен .gitignore
 
 Добавлена лицензия MIT
+
+
+Добавлены файлы roadmap.md и CODE_OF_CONDUCT.md
